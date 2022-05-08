@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js-mocking-fundamentals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/static-testing-tools" vcs="Git" />
   </component>
 </project>
