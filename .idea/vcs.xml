@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jest-cypress-react-babel-webpack" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js-mocking-fundamentals" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-testing-library-course" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/static-testing-tools" vcs="Git" />
   </component>
 </project>
